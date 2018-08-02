@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">E-Payment</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="pilihan">
+        <item>Choose Layanan</item>
+        <item>Internet</item>
+        <item>Internet &amp; TV</item>
+    </string-array>
+    <string-array name="pilihan_service">
+        <item>-</item>
+        <item>Change Package</item>
+        <item>Upgrade Or Downgrade</item>
+    </string-array>
+    <string-array name="pilihan_bulan">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="pilihan_tahun">
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+    </string-array>
+</resources>
